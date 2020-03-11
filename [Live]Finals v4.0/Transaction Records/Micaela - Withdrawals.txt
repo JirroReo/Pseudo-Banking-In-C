@@ -1,0 +1,6 @@
+Deposit Record of: Micaela
+Account Created at Sun Mar 08 21:38:36 2020
+-----------------
+Operation		Old Bal		Change		New Bal
+Withdraw:		10000.00	-2500.00	7500.00
+Withdraw:		12000.00	-200.00		11800.00

@@ -1,0 +1,5 @@
+			-------------------
+			Banko De Jiro
+			Withdrawals
+			-------------------
+No.	Name		Old Balance		Withdrawn		New Balance

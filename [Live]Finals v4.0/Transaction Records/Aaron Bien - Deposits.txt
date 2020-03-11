@@ -1,0 +1,6 @@
+Withdrawal Record of: Aaron Bien
+Account Created at Sun Mar 08 21:39:23 2020
+-----------------
+Operation		Old Bal		Change		New Bal
+Deposit:		5500.00		+2245.00	7745.00
+Deposit:		7195.00		+2147.00	9342.00

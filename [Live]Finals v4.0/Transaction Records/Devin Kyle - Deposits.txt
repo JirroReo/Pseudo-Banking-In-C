@@ -1,0 +1,6 @@
+Withdrawal Record of: Devin Kyle
+Account Created at Sun Mar 08 21:38:53 2020
+-----------------
+Operation		Old Bal		Change		New Bal
+Deposit:		7000.00		+5850.00	12850.00
+Deposit:		10050.00	+5632.00	15682.00

@@ -1,0 +1,6 @@
+Withdrawal Record of: Jirro Dave
+Account Created at Sun Mar 08 21:38:36 2020
+-----------------
+Operation		Old Bal		Change		New Bal
+Deposit:		7500.00		+4500.00	12000.00
+Deposit:		11800.00	+5421.00	17221.00

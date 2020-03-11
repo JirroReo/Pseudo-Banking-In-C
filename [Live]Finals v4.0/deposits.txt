@@ -1,0 +1,5 @@
+			-------------------
+			Banko De Jiro
+			Deposits
+			-------------------
+No.	Name		Old Balance		Deposited		New Balance
